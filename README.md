@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# Aidan Watson's repository for all work and achievements for grade 11 computer science (ICS3U)
 <!--
 **aidan-watson/aidan-watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
